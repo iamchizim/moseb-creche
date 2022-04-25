@@ -1,0 +1,17 @@
+*{ 
+    margin: 0; 
+    padding: 0; 
+
+} 
+ul img{ 
+    width: 40px; 
+    margin-left: 20%;
+} 
+.nav h3{ 
+    color: white; 
+    margin-left: 10%; 
+    text-shadow: 2px 2px black;
+} 
+li .nav-link{ 
+    color: white;
+}
