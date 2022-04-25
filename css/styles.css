@@ -2,16 +2,38 @@
     margin: 0; 
     padding: 0; 
 
-} 
+}  
+body{ 
+    background-color: yellowgreen;
+}
+/* nav section  */
 ul img{ 
-    width: 40px; 
+    width: 38px; 
     margin-left: 20%;
 } 
 .nav h3{ 
     color: white; 
     margin-left: 10%; 
+    font-weight: bolder;
     text-shadow: 2px 2px black;
 } 
 li .nav-link{ 
     color: white;
+} 
+.mybanner{ 
+    text-align: center; 
+    background-image: url(../img/_116698121_education_27th_jan_976_getty_3.jpg); 
+    min-height: 500px; 
+    max-height: 650px;
+} 
+.mybanner h2{ 
+    margin-top: 5%; 
+    font-size: 80px; 
+    text-transform: uppercase; 
+    text-shadow: 2px 2px red;
+} 
+.mybanner p{ 
+    font-size: 35px; 
+    font-style: italic; 
+    text-transform: capitalize;
 }
